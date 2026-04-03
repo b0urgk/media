@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 780" width="900" height="780">
+
+  <!-- Background -->
+  <rect width="900" height="780" fill="#1a1a1a"/>
+
+  <!-- Accent top bar -->
+  <rect x="0" y="0" width="900" height="4" fill="#4a9"/>
+
+  <!-- Event subtitle -->
+  <text x="48" y="42" font-family="'Courier New', monospace" font-size="11" fill="#4a9" letter-spacing="3" font-weight="700">SCHEDULE OF ACTIVITIES &amp; WORKSHOPS</text>
+
+  <!-- Main title -->
+  <text x="48" y="82" font-family="'Arial Black', sans-serif" font-size="40" fill="#c9c9c9" letter-spacing="2">Inauguration / Porte Ouverte</text>
+
+  <!-- Table -->
+  <rect x="48" y="108" width="804" height="638" rx="8" fill="#222"/>
+
+  <!-- Header row -->
+  <rect x="48" y="108" width="804" height="40" rx="8" fill="#222"/>
+  <rect x="48" y="128" width="804" height="20" fill="#222"/>
+  <text x="68" y="133" font-family="'Courier New', monospace" font-size="10" fill="#4a9" letter-spacing="2" font-weight="700">TIME</text>
+  <text x="220" y="133" font-family="'Courier New', monospace" font-size="10" fill="#4a9" letter-spacing="2" font-weight="700">WORKSHOP / SESSION</text>
+  <text x="760" y="133" font-family="'Courier New', monospace" font-size="10" fill="#4a9" letter-spacing="2" font-weight="700">DURATION</text>
+  <line x1="48" y1="148" x2="852" y2="148" stroke="#333" stroke-width="1"/>
+
+  <!-- ROW 1: 10h00 Soldering 01 -->
+  <rect x="48" y="148" width="804" height="46" fill="#222"/>
+  <text x="68" y="177" font-family="'Courier New', monospace" font-size="12" fill="#4a9" font-weight="700">10h00</text>
+  <text x="220" y="177" font-family="'Courier New', monospace" font-size="13" fill="#c9c9c9" font-weight="700">Soldering 01</text>
+  <text x="760" y="177" font-family="'Courier New', monospace" font-size="12" fill="#777">1h30</text>
+  <line x1="48" y1="194" x2="852" y2="194" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- ROW 2: 13h00 DJing -->
+  <rect x="48" y="194" width="804" height="46" fill="#1e1e1e"/>
+  <text x="68" y="223" font-family="'Courier New', monospace" font-size="12" fill="#4a9" font-weight="700">13h00</text>
+  <text x="220" y="223" font-family="'Courier New', monospace" font-size="13" fill="#c9c9c9" font-weight="700">DJing / Music production</text>
+  <text x="760" y="223" font-family="'Courier New', monospace" font-size="12" fill="#777">2h00</text>
+  <line x1="48" y1="240" x2="852" y2="240" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- ROW 3: 13h00 3D Jewlery -->
+  <rect x="48" y="240" width="804" height="46" fill="#222"/>
+  <text x="68" y="269" font-family="'Courier New', monospace" font-size="12" fill="#4a9" font-weight="700">13h00</text>
+  <text x="220" y="269" font-family="'Courier New', monospace" font-size="13" fill="#c9c9c9" font-weight="700">3D Jewlery</text>
+  <text x="760" y="269" font-family="'Courier New', monospace" font-size="12" fill="#777">2h00</text>
+  <line x1="48" y1="286" x2="852" y2="286" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- ROW 4: 15h00 Soldering 02 -->
+  <rect x="48" y="286" width="804" height="46" fill="#1e1e1e"/>
+  <text x="68" y="315" font-family="'Courier New', monospace" font-size="12" fill="#4a9" font-weight="700">15h00</text>
+  <text x="220" y="315" font-family="'Courier New', monospace" font-size="13" fill="#c9c9c9" font-weight="700">Soldering 02</text>
+  <text x="760" y="315" font-family="'Courier New', monospace" font-size="12" fill="#777">1h30</text>
+  <line x1="48" y1="332" x2="852" y2="332" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- ROW 5: 16h00 Official Part -->
+  <rect x="48" y="332" width="804" height="46" fill="#222"/>
+  <text x="68" y="361" font-family="'Courier New', monospace" font-size="12" fill="#4a9" font-weight="700">16h00</text>
+  <text x="220" y="361" font-family="'Courier New', monospace" font-size="13" fill="#c9c9c9" font-weight="700">Official Part</text>
+  <text x="760" y="361" font-family="'Courier New', monospace" font-size="12" fill="#777">1h30</text>
+  <line x1="48" y1="378" x2="852" y2="378" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- ROW 6: 17h15 Evening Social -->
+  <rect x="48" y="378" width="804" height="46" fill="#1e2e28"/>
+  <text x="68" y="407" font-family="'Courier New', monospace" font-size="12" fill="#4a9" font-weight="700">17h15</text>
+  <text x="220" y="407" font-family="'Courier New', monospace" font-size="13" fill="#c9c9c9" font-weight="700">Evening Social</text>
+  <text x="760" y="407" font-family="'Courier New', monospace" font-size="12" fill="#555" font-style="italic">tba</text>
+  <line x1="48" y1="424" x2="852" y2="424" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- Divider: tba section -->
+  <rect x="48" y="424" width="804" height="2" fill="#333"/>
+  <rect x="48" y="426" width="804" height="18" fill="#1a1a1a"/>
+  <text x="68" y="439" font-family="'Courier New', monospace" font-size="9" fill="#555" letter-spacing="2">TIME TBA</text>
+  <line x1="48" y1="444" x2="852" y2="444" stroke="#333" stroke-width="1"/>
+
+  <!-- ROW 7: tba 3D Printing -->
+  <rect x="48" y="444" width="804" height="46" fill="#1e1e1e"/>
+  <text x="68" y="473" font-family="'Courier New', monospace" font-size="11" fill="#555" font-style="italic">tba</text>
+  <text x="220" y="473" font-family="'Courier New', monospace" font-size="13" fill="#c9c9c9" font-weight="700">3D Printing</text>
+  <text x="760" y="473" font-family="'Courier New', monospace" font-size="11" fill="#555" font-style="italic">tba</text>
+  <line x1="48" y1="490" x2="852" y2="490" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- ROW 8: tba Theremin -->
+  <rect x="48" y="490" width="804" height="46" fill="#222"/>
+  <text x="68" y="519" font-family="'Courier New', monospace" font-size="11" fill="#555" font-style="italic">tba</text>
+  <text x="220" y="519" font-family="'Courier New', monospace" font-size="13" fill="#c9c9c9" font-weight="700">Theremin</text>
+  <text x="760" y="519" font-family="'Courier New', monospace" font-size="11" fill="#555" font-style="italic">tba</text>
+  <line x1="48" y1="536" x2="852" y2="536" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- ROW 9: Repeating Marble Adder -->
+  <rect x="48" y="536" width="804" height="46" fill="#1e1e1e"/>
+  <text x="68" y="565" font-family="'Courier New', monospace" font-size="10" fill="#777">Repeating</text>
+  <text x="220" y="565" font-family="'Courier New', monospace" font-size="13" fill="#c9c9c9" font-weight="700">Marble Adder</text>
+  <text x="760" y="565" font-family="'Courier New', monospace" font-size="12" fill="#777">45min</text>
+  <line x1="48" y1="582" x2="852" y2="582" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- ROW 10: Afternoon mBot Coding -->
+  <rect x="48" y="582" width="804" height="46" fill="#222"/>
+  <text x="68" y="611" font-family="'Courier New', monospace" font-size="10" fill="#777">Afternoon</text>
+  <text x="220" y="611" font-family="'Courier New', monospace" font-size="13" fill="#c9c9c9" font-weight="700">mBot Coding</text>
+  <text x="760" y="611" font-family="'Courier New', monospace" font-size="11" fill="#555" font-style="italic">tba</text>
+  <line x1="48" y1="628" x2="852" y2="628" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- ROW 11: tba Makey Makey -->
+  <rect x="48" y="628" width="804" height="46" fill="#1e1e1e"/>
+  <text x="68" y="657" font-family="'Courier New', monospace" font-size="11" fill="#555" font-style="italic">tba</text>
+  <text x="220" y="657" font-family="'Courier New', monospace" font-size="13" fill="#c9c9c9" font-weight="700">Makey Makey</text>
+  <text x="760" y="657" font-family="'Courier New', monospace" font-size="12" fill="#777">2h00</text>
+  <line x1="48" y1="674" x2="852" y2="674" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- ROW 12: tba Misc MakerBuzz -->
+  <rect x="48" y="674" width="804" height="46" fill="#222"/>
+  <text x="68" y="703" font-family="'Courier New', monospace" font-size="11" fill="#555" font-style="italic">tba</text>
+  <text x="220" y="703" font-family="'Courier New', monospace" font-size="13" fill="#c9c9c9" font-weight="700">Misc MakerBuzz Activities</text>
+  <text x="760" y="703" font-family="'Courier New', monospace" font-size="11" fill="#555" font-style="italic">tba</text>
+  <line x1="48" y1="720" x2="852" y2="720" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- ROW 13: tba Battle Robots -->
+  <rect x="48" y="720" width="804" height="26" fill="#1e1e1e"/>
+  <rect x="48" y="726" width="804" height="20" rx="8" fill="#1e1e1e"/>
+  <text x="68" y="749" font-family="'Courier New', monospace" font-size="11" fill="#555" font-style="italic">tba</text>
+  <text x="220" y="749" font-family="'Courier New', monospace" font-size="13" fill="#c9c9c9" font-weight="700">Battle Robots</text>
+  <text x="760" y="749" font-family="'Courier New', monospace" font-size="11" fill="#555" font-style="italic">tba</text>
+
+  <!-- Column dividers -->
+  <line x1="200" y1="148" x2="200" y2="746" stroke="#2a2a2a" stroke-width="1"/>
+  <line x1="740" y1="148" x2="740" y2="746" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- Bottom accent bar -->
+  <rect x="0" y="776" width="900" height="4" fill="#4a9"/>
+
+</svg>
